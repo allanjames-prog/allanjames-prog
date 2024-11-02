@@ -1,34 +1,32 @@
-# 👋 Hi, I’m Allan James
+# 👋 Hi there! I'm Allan James
+
+Welcome to my GitHub profile—a place where code, curiosity, and creativity meet!
 
 ## 👀 About Me
-- **Interests**: Data Science and Backend Development
-- **Currently Learning**: C Programming
-- **Looking to Collaborate On**: Open-source projects and data-driven applications
+- **💡 Interests**: Data Science | Backend Development | Problem Solving
+- **📚 Currently Learning**: Advanced C Programming & Systems Design
+- **🤝 Open to Collaborate**: Looking to work on impactful, data-driven applications and open-source projects
 
-## 📫 How to Reach Me
+## 📬 Connect with Me
 - **Email**: [james21.khiisa@gmail.com](mailto:james21.khiisa@gmail.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/allanjames)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/allanjames)
 
-## 😄 Pronouns
-- He/Him
+## 🎉 Fun Facts
+- **Pronouns**: He/Him
+- **Puzzle Enthusiast** 🧩 | **Soccer Player** ⚽ | **Adventure Lover** 🌍 
 
-## ⚡ Fun Fact
-- I love solving puzzles and I'm an avid soccer player
+## 🌟 Featured Projects
+- **Portfolio Site**: Building my portfolio as a growing hub for all my coding projects.
+- **Calorie Counter App**: A web application to track calorie intake and expenditure.
+- **Interactive Learning Tool**: A fun project to help beginners learn programming concepts interactively.
 
-## 🌟 Projects
-- [Project 1](#): Currently working on my very first, ie portforlio that I will keep updating as I work on more projects.
-- [Project 2](#): Brief description of project 2.
-- [Project 3](#): Brief description of project 3.
-
-## 🛠️ Skills
+## 🛠️ Technical Skills
 - **Languages**: Python, JavaScript, C
 - **Frameworks**: Django, Node.js
-- **Tools**: Git, Docker, SQL
+- **Tools & Technologies**: Git, Docker, SQL, Visual Studio Code
 
-## 📈 GitHub Stats
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanjames-prog&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
+## 📈 GitHub Highlights
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allanjames-prog&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanjames-prog&layout=compact&theme=radical)
 
 <!---
