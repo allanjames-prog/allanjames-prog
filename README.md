@@ -4,7 +4,7 @@ Welcome to my GitHub profile—a place where **code**, **curiosity**, and **crea
 
 ## 👀 About Me
 - **💡 Interests**: Data Science | Backend Development | Software Engineering | Problem Solving | Physics
-- **📚 Currently Learning**: Advanced C Programming, Systems Design, and Machine Learning
+- **📚 Currently Learning**: CSE cohort at Refactory 
 - **🤝 Open to Collaborate**: Passionate about building impactful applications, contributing to open-source projects, and tackling real-world problems with code.
 
 ## 🛠️ My Skill Set
