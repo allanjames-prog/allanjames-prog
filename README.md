@@ -8,7 +8,7 @@ Welcome to my GitHub profile—a place where **code**, **curiosity**, and **crea
 - **🤝 Open to Collaborate**: Passionate about building impactful applications, contributing to open-source projects, and tackling real-world problems with code.
 
 ## 🛠️ My Skill Set
-- **Languages**: Python, C, JavaScript, SQL
+- **Languages**: Python, C, JavaScript, SQL, Python 
 - **Frameworks & Libraries**: Django, Flask, Node.js, React
 - **Tools & Technologies**: Git, Docker, SQL, Visual Studio Code, AWS, PostgreSQL
 - **Problem Solving**: Algorithms, Data Structures, LeetCode, Codeforces
@@ -36,6 +36,7 @@ Here’s a quick glance at my GitHub activity and top languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allanjames-prog&layout=compact&theme=radical)
 
 ## 🚀 Latest Blog Posts
+- [**Salon app for mumu technology]
 - [**Building a Portfolio Website from Scratch**](https://medium.com/@allanjames)
 - [**How I Developed a Calorie Counter App with Node.js**](https://medium.com/@allanjames)
 - [**Optimizing Power Systems for High-Uptime Performance**](https://medium.com/@allanjames)
