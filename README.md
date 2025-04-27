@@ -8,7 +8,7 @@ Welcome to my GitHub profile—a place where **code**, **curiosity**, and **crea
 - **🤝 Open to Collaborate**: Passionate about building impactful applications, contributing to open-source projects, and tackling real-world problems with code.
 
 ## 🛠️ My Skill Set
-- **Languages**: Python, C, JavaScript, SQL, Python 
+- **Languages**: Python, C, JavaScript, SQL.
 - **Frameworks & Libraries**: Django, Flask, Node.js, React
 - **Tools & Technologies**: Git, Docker, SQL, Visual Studio Code, AWS, PostgreSQL
 - **Problem Solving**: Algorithms, Data Structures, LeetCode, Codeforces
