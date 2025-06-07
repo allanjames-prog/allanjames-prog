@@ -31,7 +31,7 @@ Here are some of the projects I’ve worked on recently:
 ## 📬 Connect with Me
 
 * **Email**: [james21.khiisa@gmail.com](mailto:james21.khiisa@gmail.com)
-* **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/james-allan-09963a249)
+* **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/allan-james-09963a249/)
 * **GitHub**: [Visit my GitHub Projects](https://github.com/allanjames-prog)
 
 ## 🎉 Fun Facts
