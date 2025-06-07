@@ -22,7 +22,7 @@ Welcome to my GitHub profile—a place where **code**, **curiosity**, and **crea
 
 Here are some of the projects I’ve worked on recently:
 
-* **🎨 Portfolio Site**: [Personal Portfolio](https://github.com/allanjames-prog/portfolio-site) – A site showcasing my work, skills, and achievements.
+* **🎨 Portfolio Site**: [Personal Portfolio](https://web-production-ec847.up.railway.app/) – A site showcasing my work, skills, and achievements.
 * **🔥 Calorie Counter App**: [GitHub Repository](https://github.com/allanjames-prog/calorie-counter) – Tracks calorie intake and expenditure to compute deficits/surpluses.
 * **💻 Interactive Learning Tool**: [GitHub Repository](https://github.com/allanjames-prog/interactive-learning-tool) – A beginner-friendly platform to learn programming concepts interactively.
 * **⚡ Systems & Maintenance Projects**: [GitHub Repository](https://github.com/allanjames-prog/systems-maintenance) – My hands-on experience with systems optimization and power upgrades at Watoto Church.
